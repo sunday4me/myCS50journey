@@ -1,7 +1,7 @@
 # myCS50journey
 My Journey through studying Introduction to Computer Science with CS50x with Projectstake Academy
 
-Week 0 Scratch
+# Week 0 Scratch
 Week 1 C
 Week 2 Arrays
 Week 3 Algorithms
